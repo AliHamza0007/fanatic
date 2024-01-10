@@ -1,0 +1,14 @@
+.bgFooter {
+  background-color: #0b093b;
+  color: white;
+}
+.bgFooterText {
+  color: #7620ff;
+}
+.btnFooterHover:hover {
+  color: #7620ff !important;
+  transform: 1s ease;
+}
+.fontSmallFooter {
+  font-size: smaller;
+}

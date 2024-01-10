@@ -1,0 +1,19 @@
+.nav-link {
+  padding: 10px 50px;
+  cursor: pointer;
+  border-bottom: 5px solid transparent;
+}
+
+.nav-link:hover {
+  color: #938ac7;
+}
+.nav-link.active {
+  color: #938ac7 !important;
+  border-bottom: 5px solid #938ac7 !important;
+}
+.bgNav {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  background-color: rgb(255, 255, 255) !important;
+}

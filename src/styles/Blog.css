@@ -1,0 +1,22 @@
+.btnCompany {
+  background: rgb(129, 241, 241) !important;
+}
+
+.officeCardHover {
+  box-shadow: 0 4px 8px rgba(87, 83, 83, 0.1);
+}
+.officeCardHover:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.cardQuotesBlog {
+  cursor: pointer;
+  background-color: #0b093b;
+}
+.QuotesBlog {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

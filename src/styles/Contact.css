@@ -1,0 +1,27 @@
+.inputContact {
+  padding: 10px;
+
+  border: none;
+  border-bottom: 1px solid black;
+}
+input:focus-visible {
+  outline: none;
+  border-bottom: 1px solid black;
+}
+textarea:focus-visible {
+  outline: none;
+  border-bottom: 1px solid black;
+}
+.btnSendMessage {
+  background-color: #7620ff;
+  padding: 10px 40px;
+  color: white;
+}
+.btnSendMessage:hover {
+  background-color: #8860ca;
+  padding: 10px 40px;
+  color: white;
+}
+.img1Contact{}
+.img2Contact{}
+.img3Contact{}

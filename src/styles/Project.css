@@ -1,0 +1,50 @@
+.swiperSlideImg:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.projectImg1 {
+  position: absolute;
+  top: -65%;
+  left: 20%;
+  height: 600px;
+}
+
+@media screen and (max-width: 1024px) {
+  .projectImg1 {
+    top: -30%;
+    left: 15%;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .projectImg1 {
+    top: -20%;
+    left: 0;
+    height: 500px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .projectImg1 {
+    top: -10%;
+    left: 15%;
+    height: 400px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .projectImg1 {
+    position: static !important;
+
+    height: 300px;
+    width: 300px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .projectImg1 {
+    position: static !important;
+
+    height: 300px;
+    width: 300px;
+  }
+}

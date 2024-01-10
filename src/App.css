@@ -1,0 +1,19 @@
+.cursor {
+  cursor: pointer;
+}
+.navbar {
+  font-weight: bold;
+}
+img:hover {
+  cursor: pointer;
+}
+svg:hover {
+  cursor: pointer;
+}
+.navbar-brand {
+  cursor: pointer;
+}
+
+.cp {
+  color: #0b093b !important;
+}

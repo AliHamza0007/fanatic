@@ -1,0 +1,92 @@
+.btnContactUs {
+  border: 1px solid #1d142c;
+  color: #241935;
+  font-size: 15px;
+  transition: all 1s ease;
+}
+.btnContactUs:hover {
+  border: 1px solid #7620ff;
+  color: #7620ff;
+  transition: all 1s ease;
+}
+.btnGetStarted {
+  font-size: 15px;
+
+  border: 1px solid #7620ff;
+  background-color: #7620ff;
+  color: white;
+  transition: all 1s ease;
+}
+.btnGetStarted:hover {
+  background-color: #4702c9;
+  color: white;
+  transition: all 1s ease;
+}
+.img1,
+.img2,
+.img3,
+.img4 {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 15px;
+}
+.img3 {
+  float: right;
+}
+.imagesColumn {
+  position: absolute;
+  top: -20%;
+  right: 1%;
+}
+
+@media screen and (min-width: 1440px) {
+  .imagesColumn {
+    right: 10%;
+  }
+
+  .img4 {
+    position: absolute;
+    bottom: -10%;
+    right: 15%;
+  }
+}
+@media screen and (max-width: 1440px) {
+  .imagesColumn {
+    right: 1%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .btnGetStarted {
+    font-size: 12px;
+  }
+  .btnContactUs {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .btnGetStarted {
+    font-size: 10px;
+  }
+  .btnContactUs {
+    font-size: 10px;
+  }
+  .imagesColumn {
+    right: 5%;
+    top: 10%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .serviceRow {
+    height: 1000px;
+  }
+  .imagesColumn {
+    top: 38%;
+    right: -4%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .imagesColumn {
+    top: 38%;
+    right: 0;
+  }
+}

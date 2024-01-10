@@ -1,0 +1,48 @@
+@keyframes slide {
+  0% {
+    left: 98%;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+@keyframes box {
+  0% {
+    top: -10%;
+  }
+
+  100% {
+    top: 5%;
+  }
+}
+@keyframes imagescolumn {
+  0% {
+    opacity: 0.1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.animateSlide {
+  position: relative;
+  animation-name: slide;
+  animation-duration: 2s;
+}
+.box {
+  position: relative;
+  animation-name: box;
+  animation-duration: 3s;
+}
+.swiper {
+  position: relative;
+  animation-name: imagescolumn;
+  animation-duration: 4s;
+}
+.pricingSlide {
+  position: relative;
+  animation-name: slide;
+  animation-duration: 2s;
+}

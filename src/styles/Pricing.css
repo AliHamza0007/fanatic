@@ -1,0 +1,14 @@
+.fw {
+  font-weight: 900;
+}
+.pricingSlide {
+  box-shadow: 0 4px 8px rgba(87, 83, 83, 0.1);
+}
+.btnBuy {
+  background-color: #7620ff;
+  color: white;
+  /* padding: 10px 50px; */
+}
+.btnBuy:hover {
+  background-color: #825acc;
+}
