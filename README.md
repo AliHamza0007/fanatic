@@ -5,7 +5,7 @@ This project is a React.js implementation of the Fanatic professional animation 
 
 ## Live Demo
 
-Explore the live demo of the converted template: [Fanatic React Demo](https://fanatic.onrender.com)
+Explore the live demo of the converted template: (https://fanatic.onrender.com)
 
 ## Features
 
