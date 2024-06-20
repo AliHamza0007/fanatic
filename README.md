@@ -1,19 +1,10 @@
-# FoodPanda Clone
+# Fanatic
 
-This project is a clone of the FoodPanda website developed using React.js. It aims to replicate the core functionalities and design of the original FoodPanda platform.
+Fanatic is a professional animation template showcasing intricate animations and modern design elements. This project aims to recreate its essence using React.js.
 
 ## Demo
 
 ## [![Live](https://img.shields.io/badge/Live-Link-blue?style=for-the-badge&logo=netlify)](https://fanatic.onrender.com/)
-
-## Features
-
-- **Responsive Design:** Built to be responsive and provide a seamless experience across various devices and screen sizes.
-- **Product Listings:** Browse through a wide range of food items with detailed descriptions and images.
-- **User Authentication:** Register an account, log in, and maintain a personalized user profile.
-- **Order Placement:** Add items to the cart, review the order, and proceed with the checkout process.
-- **Search Functionality:** Search for specific restaurants or food items for quick access.
-- **Order Tracking:** Track the status of placed orders and receive updates on delivery progress.
 
 ## Technologies Used
 
